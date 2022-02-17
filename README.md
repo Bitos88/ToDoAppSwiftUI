@@ -8,3 +8,4 @@ Made with MVVM Architecture.
 Based on SwiftBeta example
 
 ![](Images/TodoApp.jpeg)
+![](Images/TodoApp.gif)
